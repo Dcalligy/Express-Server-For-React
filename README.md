@@ -1,12 +1,13 @@
 # Express Sever for React
 
 The plan is to build a website using the React framework with an Express server for the backend with Node.js. 
+run ```node server.js``` to start the Express server. The server backend is running on port 5000 ```http://localhost:5000/express_backend```.
 
 ## Next Steps (Current TODO list)
 * Build the website
-    ⋅⋅1. Simple website with home page, about us, contact form. 
-    ⋅⋅2. Set up backend to send form data to a database (Not sure which DB...maybe MongoDB)
-    ⋅⋅3. Make the sight look pretty.
+    1. Simple website with home page, about us, contact form. 
+    2. Set up backend to send form data to a database (Not sure which DB...maybe MongoDB)
+    3. Make the sight look pretty.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
