@@ -5,9 +5,9 @@ run ```node server.js``` to start the Express server. The server backend is runn
 
 ## Next Steps (Current TODO list)
 * Build the website
-    1. Simple website with home page, about us, contact form. 
-    2. Set up backend to send form data to a database (Not sure which DB...maybe MongoDB)
-    3. Make the sight look pretty.
+    - Simple website with home page, about us, contact form. 
+    - Set up backend to send form data to a database (Not sure which DB...maybe MongoDB)
+    - Make the sight look pretty.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
